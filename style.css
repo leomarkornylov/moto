@@ -1,1 +1,28 @@
-
+header{
+    background-color: black;
+}
+nav{
+    font-size:30px;
+}
+nav li{
+    display:inline-flex;
+    margin-left: 30%;
+}
+nav li:hover{
+    
+    font: size 35px;
+    transition:0,8s;
+}
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center
+    color: rgb(49,36,172);
+}
+p{
+    text-align: center;
+}
+em strong{
+    color: blue;
+}
